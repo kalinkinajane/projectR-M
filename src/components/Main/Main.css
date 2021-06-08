@@ -1,0 +1,32 @@
+.main{
+    padding: 30px 0;
+    width: 90%;
+    margin: auto;
+   
+  
+}
+.item__list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.item{
+  margin: 15px 15px;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+  
+}
+.item__img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.item__name{
+    color: #fff;
+
+}
+.my-class-name{
+    color: #fff;
+}
